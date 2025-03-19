@@ -4,10 +4,9 @@
   "features": {
     "ghcr.io/dlouwers/devcontainer-features/devbox:1": {},
     "ghcr.io/devcontainers/features/docker-in-docker:2.12.0": {},
-    "ghcr.io/audacioustux/devcontainers/tilt:1.0.1": {},
     "ghcr.io/devcontainers/features/kubectl-helm-minikube:1.2.0": {
       "version": "latest",
-      "helm": "latest",
+      "helm": "none",
       "minikube": "none"
     }
   },
